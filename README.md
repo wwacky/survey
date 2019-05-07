@@ -1,7 +1,4 @@
-# survey
-
-
-URLs
+# URLs
 
 ページ | URL
 --- | ---
